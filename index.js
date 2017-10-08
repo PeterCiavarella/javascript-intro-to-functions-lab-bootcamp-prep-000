@@ -11,7 +11,7 @@ function logShout(string) {
 
 var uppercase = "HELLO!"
 
-uppercase.toUpperCase() === uppercase // true
+console.log(uppercase.toUpperCase() === uppercase) // true
 
 var lowercase = 'hello!'
 
