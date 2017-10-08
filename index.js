@@ -16,6 +16,3 @@ function sayHiToGrandma(string) {
 function sayHiToGrandma(string) {
   return string.toUpperCase()
 }
-function sayHiToGrandma("I love you"){
-  return string
-}
